@@ -1,0 +1,11 @@
+{
+    "require": {
+        "korbeil/jane-v8": "dev-main@dev",
+        "jolicode/automapper": "dev-main@dev"
+    },
+    "autoload": {
+      "psr-4": {
+        "Jolicode\\Compose\\": "generated/"
+      }
+    }
+}
